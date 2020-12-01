@@ -1,10 +1,10 @@
-# kottans-frontend 
-Stage 0.
+# kottans-frontend
+## Stage 0.
 
 ### General
 - [X] Git Basics
 - [X] Linux CLI and Networking
-- [ ] VCS (hello gitty), GitHub and Collaboration
+- [X] VCS (hello gitty), GitHub and Collaboration
 
 ### Front-End Basics
 - [ ] Intro to HTML & CSS
@@ -24,10 +24,14 @@ Stage 0.
 
 ---
 
-## Git Basics
-done
-
 ## Linux CLI, and HTTP 
-[Linux Quizzes done tasks screenshot](task_linux_cli/Linux_quiz.png)
-> In Linux section a lot of commands was new to me, exciting to work with Bash.
-> Interesting info about HTTP caching
+[Linux Quizzes](task_linux_cli/Linux_quiz.png)
+> In Linux section a lot of commands was new to me, exciting to work with Bash. \
+>Interesting info about HTTP caching
+---
+
+## Git Collaboration
+[Udemy course](task_git_collaboration/GitHub_Collaboration.jpg) \
+[Learngitbranching Main](task_git_collaboration/learngitbranching_main.jpg) \
+[Learngitbranching Remote](task_git_collaboration/learngitbranching_remote.jpg) 
+
