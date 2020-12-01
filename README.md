@@ -27,11 +27,13 @@
 ## Linux CLI, and HTTP 
 [Linux Quizzes](task_linux_cli/Linux_quiz.png)
 > In Linux section a lot of commands was new to me, exciting to work with Bash. \
->Interesting info about HTTP caching
+> Interesting info about HTTP caching
 ---
 
 ## Git Collaboration
 [Udemy course](task_git_collaboration/GitHub_Collaboration.jpg) \
 [Learngitbranching Main](task_git_collaboration/learngitbranching_main.jpg) \
 [Learngitbranching Remote](task_git_collaboration/learngitbranching_remote.jpg) 
-
+> It was very interesing topic to expand my knowledge about work with Git and team work in Github \
+> Cherry-picking is a power command with funny name. I will remember it for sure :)
+---
