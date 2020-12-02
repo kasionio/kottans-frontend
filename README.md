@@ -7,7 +7,7 @@
 - [X] VCS (hello gitty), GitHub and Collaboration
 
 ### Front-End Basics
-- [ ] Intro to HTML & CSS
+- [X] Intro to HTML & CSS
 - [ ] Responsive Web Design
 - [ ] HTML & CSS Practice
 - [ ] JavaScript Basics
@@ -37,3 +37,10 @@
 > It was very interesing topic to expand my knowledge about work with Git and team work in Github \
 > Cherry-picking is a power command with funny name. I will remember it for sure :)
 ---
+
+## Intro to HTML and CSS
+[Udemy course](task_html_css_intro/Intro_html_css_Udacity.png) \
+[Codeacademy course](task_html_css_intro/HTML_Codeacademy.jpg) 
+> Discover new to me `<datalist>` tag
+---
+
