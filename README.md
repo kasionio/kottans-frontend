@@ -8,7 +8,7 @@
 
 ### Front-End Basics
 - [X] Intro to HTML & CSS
-- [ ] Responsive Web Design
+- [X] Responsive Web Design
 - [ ] HTML & CSS Practice
 - [ ] JavaScript Basics
 - [ ] Document Object Model - practice
@@ -43,4 +43,12 @@
 [Codeacademy course](task_html_css_intro/HTML_Codeacademy.jpg) 
 > Discover new to me `<datalist>` tag
 ---
+
+## Responsive Web Design
+[Flexbox Froggy](task_responsive_web_design/Flexbox_froggy.jpg) \
+[Udacity course](task_responsive_web_design/Udacity_course.jpg) 
+> Learn a new techniques of media queries which I will use in future.
+---
+
+
 
