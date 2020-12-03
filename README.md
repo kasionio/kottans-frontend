@@ -31,7 +31,7 @@
 ---
 
 ## Git Collaboration
-[Udemy course](task_git_collaboration/GitHub_Collaboration.jpg) \
+[Udacity course](task_git_collaboration/GitHub_Collaboration.jpg) \
 [Learngitbranching Main](task_git_collaboration/learngitbranching_main.jpg) \
 [Learngitbranching Remote](task_git_collaboration/learngitbranching_remote.jpg) 
 > It was very interesing topic to expand my knowledge about work with Git and team work in Github \
@@ -39,7 +39,7 @@
 ---
 
 ## Intro to HTML and CSS
-[Udemy course](task_html_css_intro/Intro_html_css_Udacity.png) \
+[Udacity course](task_html_css_intro/Intro_html_css_Udacity.png) \
 [Codeacademy course](task_html_css_intro/HTML_Codeacademy.jpg) 
 > Discover new to me `<datalist>` tag
 ---
