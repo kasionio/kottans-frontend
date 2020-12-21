@@ -9,8 +9,8 @@
 ### Front-End Basics
 - [X] Intro to HTML & CSS
 - [X] Responsive Web Design
-- [ ] HTML & CSS Practice
-- [ ] JavaScript Basics
+- [X] HTML & CSS Practice
+- [X] JavaScript Basics
 - [ ] Document Object Model - practice
 
 ### Advanced Topics
@@ -50,5 +50,12 @@
 > Learn a new techniques of media queries which I will use in future.
 ---
 
+## HTML & CSS Practice
+https://github.com/kasionio/html-css-popup
 
+---
+## JS Basics
+[Udacity course](task_js_basics/Udacity_course.jpg) \
+[FreeCodeCamp](task_js_basics/freecodecamp_JS.png) 
+> Learn a tons of new information. The most hard part for me was algorythm challenges which despite is very interesting. 
 
