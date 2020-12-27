@@ -59,3 +59,8 @@ https://github.com/kasionio/html-css-popup
 [FreeCodeCamp](task_js_basics/freecodecamp_JS.png) 
 > Learn a tons of new information. The most hard part for me was algorythm challenges which despite is very interesting. 
 
+---
+## DOM
+[Udacity course](task_js_dom/DOM_Udacity.png) \
+[FreeCodeCamp](task_js_dom/freecodecamp_Algorithm_Scripting_Challenges.jpg) 
+
