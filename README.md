@@ -11,10 +11,10 @@
 - [X] Responsive Web Design
 - [X] HTML & CSS Practice
 - [X] JavaScript Basics
-- [ ] Document Object Model - practice
+- [X] Document Object Model - practice
 
 ### Advanced Topics
-- [ ] Building a Tiny JS World (pre-OOP) - practice
+- [X] Building a Tiny JS World (pre-OOP) - practice
 - [ ] Object oriented JS - practice
 - [ ] OOP exercise - practice
 - [ ] Offline Web Applications
@@ -51,7 +51,7 @@
 ---
 
 ## HTML & CSS Practice
-https://github.com/kasionio/html-css-popup
+[Practice](https://github.com/kasionio/html-css-popup)
 
 ---
 ## JS Basics
@@ -62,5 +62,20 @@ https://github.com/kasionio/html-css-popup
 ---
 ## DOM
 [Udacity course](task_js_dom/DOM_Udacity.png) \
-[FreeCodeCamp](task_js_dom/freecodecamp_Algorithm_Scripting_Challenges.jpg) 
+[FreeCodeCamp](task_js_dom/freecodecamp_Algorithm_Scripting_Challenges.jpg) \
+[Practice](https://github.com/kasionio/js-dom)
 
+---
+## Building a Tiny JS World (pre-OOP)
+[Practice](https://github.com/kasionio/frontend-2021-homeworks/tree/a-tiny-js-world/submissions/kasionio/a-tiny-JS-world/index.js)
+
+ ---
+ ## Object oriented JS - practice
+ [Udacity course](task_js_oop/OOP_Udacity.png) \
+ [Frogger-game](https://github.com/kasionio/frontend-nanodegree-arcade-game/blob/frogger-game/js/app.js)
+ 
+ ---
+ ## OOP exercise - practice
+ [OOP practice](https://github.com/kasionio/a-tiny-JS-world/blob/gh-pages/index.js)
+ [Codewars](https://www.codewars.com/users/kasionio/stats)
+ 
