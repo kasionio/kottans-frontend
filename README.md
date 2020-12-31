@@ -76,6 +76,6 @@
  
  ---
  ## OOP exercise - practice
- [OOP practice](https://github.com/kasionio/a-tiny-JS-world/blob/gh-pages/index.js)
+ [OOP practice](https://github.com/kasionio/a-tiny-JS-world/blob/gh-pages/index.js) \
  [Codewars](https://www.codewars.com/users/kasionio/stats)
  
