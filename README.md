@@ -15,12 +15,12 @@
 
 ### Advanced Topics
 - [X] Building a Tiny JS World (pre-OOP) - practice
-- [O] Object oriented JS - practice
-- [O] OOP exercise - practice
+- [X] Object oriented JS - practice
+- [X] OOP exercise - practice
 - [ ] Offline Web Applications
-- [ ] Memory pair game — real project!
+- [X] Memory pair game — real project!
 - [ ] Website Performance Optimization
-- [ ] Friends App - real project!
+- [X] Friends App - real project!
 
 ---
 
@@ -83,3 +83,13 @@ And the very first thing I will remember is id selectors are used for JS and cla
  [OOP practice](https://github.com/kasionio/a-tiny-JS-world/blob/gh-pages/index.js) \
  [Codewars](https://www.codewars.com/users/kasionio/stats) - 7kyu reached 
 > Realize how OOP principles are used in ES6, how inheritance works and what troubles I can face in practice
+
+ ---
+ ## Memory Pair Game - project
+ [Demo](https://kasionio.github.io/memory-pair-game/) \
+ [Code](https://github.com/kasionio/memory-pair-game) 
+
+ ---
+ ## Friends App - project
+ [Demo](https://kasionio.github.io/friends-app/) \
+ [Code](https://github.com/kottans/frontend-2021-homeworks/tree/main/submissions/kasionio/friends-app)
